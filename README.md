@@ -12,4 +12,4 @@ Welcome to the {TITLE} Press Kit! These assets are designed to help you talk abo
 - Please do not hotlink the assets, because the URLs may change.
 
 ## Press Kit License
-The assets in this press kit may be used to cover, discuss, or reference {TITLE} in articles, reviews, videos, and other related media. You may resize, crop, or reformat assets as needed, but may not modify them in a way that is misleading or materially distorts the original material. All rights not expressly granted are reserved by {AUTHOR}.
+The assets in this press kit may be used to cover, discuss, or reference {TITLE} in articles, reviews, videos, and other media. You may resize, crop, or reformat assets as needed, but may not modify them in a way that is misleading or materially distorts the original material. All rights not expressly granted are reserved by {AUTHOR}.
