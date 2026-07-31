@@ -4,6 +4,8 @@ This repository provides a free-to-use template for licensing press kit assets, 
 
 This template is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0) (public domain). You may copy, modify, and use the template freely. The template is provided for informational purposes only and is not legal advice.
 
+To apply the license to your press kit, please include the [license text](#press-kit-license) in your press kit instead of hotlinking this page.
+
 ## Guidelines
 Welcome to the {TITLE} Press Kit! These assets are designed to help you talk about {TITLE}.
 - Please do not stretch or distort the assets.
